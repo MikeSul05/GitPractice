@@ -5,5 +5,4 @@ Git for Dummies
 Java for begginners
 Linux
 Bible
-
 Smart Choices
